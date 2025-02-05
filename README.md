@@ -25,7 +25,7 @@
 <summary> Простейшее программируемое устройство </summary>
    
 Для более грубокого погружение в процесс разработано [простейшее программируемое устройство](https://github.com/l1sok/APS_RV/blob/main/CYBERcobra.sv) и написана программа на машинном коде для нее.
-![image](https://github.com/user-attachments/assets/d5029942-d42d-460d-be29-9676e41a2fc7)
+![image](https://github.com/MPSU/APS/blob/master/.pic/Labs/lab_04_cybercobra/ppd_5.drawio.svg)
 
 </details> 
 <details>
